@@ -1,0 +1,722 @@
+[
+  {
+    "index": 0,
+    "soal": "一",
+    "nihongo": "いち",
+    "indonesiago": "SATU"
+  },
+  {
+    "index": 1,
+    "soal": "二",
+    "nihongo": "に",
+    "indonesiago": "DUA"
+  },
+  {
+    "index": 2,
+    "soal": "三",
+    "nihongo": "さん",
+    "indonesiago": "TIGA"
+  },
+  {
+    "index": 3,
+    "soal": "四",
+    "nihongo": "よん/し",
+    "indonesiago": "EMPAT"
+  },
+  {
+    "index": 4,
+    "soal": "五",
+    "nihongo": "ご",
+    "indonesiago": "LIMA"
+  },
+  {
+    "index": 5,
+    "soal": "六",
+    "nihongo": "ろく",
+    "indonesiago": "ENAM"
+  },
+  {
+    "index": 6,
+    "soal": "七",
+    "nihongo": "なな/しち",
+    "indonesiago": "TUJUH"
+  },
+  {
+    "index": 7,
+    "soal": "八",
+    "nihongo": "はち",
+    "indonesiago": "DELAPAN"
+  },
+  {
+    "index": 8,
+    "soal": "九",
+    "nihongo": "きゅう/く",
+    "indonesiago": "SEMBILAN"
+  },
+  {
+    "index": 9,
+    "soal": "十",
+    "nihongo": "じゅう",
+    "indonesiago": "SEPULUH"
+  },
+  {
+    "index": 10,
+    "soal": "百",
+    "nihongo": "ひゃく",
+    "indonesiago": "SERATUS"
+  },
+  {
+    "index": 11,
+    "soal": "千",
+    "nihongo": "せん",
+    "indonesiago": "SERIBU"
+  },
+  {
+    "index": 12,
+    "soal": "万",
+    "nihongo": "まん",
+    "indonesiago": "SEPULUH RIBU"
+  },
+  {
+    "index": 13,
+    "soal": "円",
+    "nihongo": "えん",
+    "indonesiago": "YEN"
+  },
+  {
+    "index": 14,
+    "soal": "日",
+    "nihongo": "にち/ひ",
+    "indonesiago": "HARI/MATAHARI"
+  },
+  {
+    "index": 15,
+    "soal": "月",
+    "nihongo": "げつ/つき",
+    "indonesiago": "BULAN"
+  },
+  {
+    "index": 16,
+    "soal": "年",
+    "nihongo": "ねん",
+    "indonesiago": "TAHUN"
+  },
+  {
+    "index": 17,
+    "soal": "時",
+    "nihongo": "じ",
+    "indonesiago": "JAM/WAKTU"
+  },
+  {
+    "index": 18,
+    "soal": "分",
+    "nihongo": "ふん/ぷん",
+    "indonesiago": "MENIT"
+  },
+  {
+    "index": 19,
+    "soal": "今",
+    "nihongo": "いま",
+    "indonesiago": "SEKARANG"
+  },
+  {
+    "index": 20,
+    "soal": "先",
+    "nihongo": "せん",
+    "indonesiago": "SEBELUM"
+  },
+  {
+    "index": 21,
+    "soal": "来",
+    "nihongo": "らい",
+    "indonesiago": "DATANG"
+  },
+  {
+    "index": 22,
+    "soal": "行",
+    "nihongo": "いく",
+    "indonesiago": "PERGI"
+  },
+  {
+    "index": 23,
+    "soal": "見",
+    "nihongo": "みる",
+    "indonesiago": "MELIHAT"
+  },
+  {
+    "index": 24,
+    "soal": "入",
+    "nihongo": "はいる",
+    "indonesiago": "MASUK"
+  },
+  {
+    "index": 25,
+    "soal": "出",
+    "nihongo": "でる",
+    "indonesiago": "KELUAR"
+  },
+  {
+    "index": 26,
+    "soal": "上",
+    "nihongo": "うえ",
+    "indonesiago": "ATAS"
+  },
+  {
+    "index": 27,
+    "soal": "下",
+    "nihongo": "した",
+    "indonesiago": "BAWAH"
+  },
+  {
+    "index": 28,
+    "soal": "左",
+    "nihongo": "ひだり",
+    "indonesiago": "KIRI"
+  },
+  {
+    "index": 29,
+    "soal": "右",
+    "nihongo": "みぎ",
+    "indonesiago": "KANAN"
+  },
+  {
+    "index": 30,
+    "soal": "中",
+    "nihongo": "なか",
+    "indonesiago": "TENGAH"
+  },
+  {
+    "index": 31,
+    "soal": "外",
+    "nihongo": "そと",
+    "indonesiago": "LUAR"
+  },
+  {
+    "index": 32,
+    "soal": "前",
+    "nihongo": "まえ",
+    "indonesiago": "DEPAN"
+  },
+  {
+    "index": 33,
+    "soal": "後",
+    "nihongo": "あと/うしろ",
+    "indonesiago": "BELAKANG"
+  },
+  {
+    "index": 34,
+    "soal": "人",
+    "nihongo": "ひと",
+    "indonesiago": "ORANG"
+  },
+  {
+    "index": 35,
+    "soal": "男",
+    "nihongo": "おとこ",
+    "indonesiago": "LAKI-LAKI"
+  },
+  {
+    "index": 36,
+    "soal": "女",
+    "nihongo": "おんな",
+    "indonesiago": "PEREMPUAN"
+  },
+  {
+    "index": 37,
+    "soal": "子",
+    "nihongo": "こ",
+    "indonesiago": "ANAK"
+  },
+  {
+    "index": 38,
+    "soal": "父",
+    "nihongo": "ちち",
+    "indonesiago": "AYAH"
+  },
+  {
+    "index": 39,
+    "soal": "母",
+    "nihongo": "はは",
+    "indonesiago": "IBU"
+  },
+  {
+    "index": 40,
+    "soal": "友",
+    "nihongo": "とも",
+    "indonesiago": "TEMAN"
+  },
+  {
+    "index": 41,
+    "soal": "学校",
+    "nihongo": "がっこう",
+    "indonesiago": "SEKOLAH"
+  },
+  {
+    "index": 42,
+    "soal": "先生",
+    "nihongo": "せんせい",
+    "indonesiago": "GURU"
+  },
+  {
+    "index": 43,
+    "soal": "本",
+    "nihongo": "ほん",
+    "indonesiago": "BUKU"
+  }, 
+  {
+    "index": 44,
+    "soal": "川",
+    "nihongo": "かわ",
+    "indonesiago": "SUNGAI"
+  },
+  {
+    "index": 45,
+    "soal": "山",
+    "nihongo": "やま",
+    "indonesiago": "GUNUNG"
+  },
+  {
+    "index": 46,
+    "soal": "田",
+    "nihongo": "た",
+    "indonesiago": "SAWAH"
+  },
+  {
+    "index": 47,
+    "soal": "天",
+    "nihongo": "てん",
+    "indonesiago": "LANGIT"
+  },
+  {
+    "index": 48,
+    "soal": "気",
+    "nihongo": "き",
+    "indonesiago": "UDARA/ENERGI"
+  },
+  {
+    "index": 49,
+    "soal": "水",
+    "nihongo": "みず",
+    "indonesiago": "AIR"
+  },
+  {
+    "index": 50,
+    "soal": "火",
+    "nihongo": "ひ",
+    "indonesiago": "API"
+  },
+  {
+    "index": 51,
+    "soal": "木",
+    "nihongo": "き",
+    "indonesiago": "POHON"
+  },
+  {
+    "index": 52,
+    "soal": "金",
+    "nihongo": "きん",
+    "indonesiago": "EMAS/UANG"
+  },
+  {
+    "index": 53,
+    "soal": "土",
+    "nihongo": "つち",
+    "indonesiago": "TANAH"
+  },
+  {
+    "index": 54,
+    "soal": "魚",
+    "nihongo": "さかな",
+    "indonesiago": "IKAN"
+  },
+  {
+    "index": 55,
+    "soal": "犬",
+    "nihongo": "いぬ",
+    "indonesiago": "ANJING"
+  },
+  {
+    "index": 56,
+    "soal": "猫",
+    "nihongo": "ねこ",
+    "indonesiago": "KUCING"
+  },
+  {
+    "index": 57,
+    "soal": "車",
+    "nihongo": "くるま",
+    "indonesiago": "MOBIL"
+  },
+  {
+    "index": 58,
+    "soal": "門",
+    "nihongo": "もん",
+    "indonesiago": "GERBANG"
+  },
+  {
+    "index": 59,
+    "soal": "駅",
+    "nihongo": "えき",
+    "indonesiago": "STASIUN"
+  },
+  {
+    "index": 60,
+    "soal": "電",
+    "nihongo": "でん",
+    "indonesiago": "LISTRIK"
+  },
+  {
+    "index": 61,
+    "soal": "話",
+    "nihongo": "はなし",
+    "indonesiago": "CERITA/PERCAPAKAN"
+  },
+  {
+    "index": 62,
+    "soal": "聞",
+    "nihongo": "きく",
+    "indonesiago": "MENDENGAR"
+  },
+  {
+    "index": 63,
+    "soal": "書",
+    "nihongo": "かく",
+    "indonesiago": "MENULIS"
+  },
+  {
+    "index": 64,
+    "soal": "読",
+    "nihongo": "よむ",
+    "indonesiago": "MEMBACA"
+  },
+  {
+    "index": 65,
+    "soal": "食",
+    "nihongo": "たべる",
+    "indonesiago": "MAKAN"
+  },
+  {
+    "index": 66,
+    "soal": "飲",
+    "nihongo": "のむ",
+    "indonesiago": "MINUM"
+  },
+  {
+    "index": 67,
+    "soal": "立",
+    "nihongo": "たつ",
+    "indonesiago": "BERDIRI"
+  },
+  {
+    "index": 68,
+    "soal": "走",
+    "nihongo": "はしる",
+    "indonesiago": "BERLARI"
+  },
+  {
+    "index": 69,
+    "soal": "休",
+    "nihongo": "やすむ",
+    "indonesiago": "ISTIRAHAT"
+  },
+  {
+    "index": 70,
+    "soal": "買",
+    "nihongo": "かう",
+    "indonesiago": "MEMBELI"
+  },
+  {
+    "index": 71,
+    "soal": "売",
+    "nihongo": "うる",
+    "indonesiago": "MENJUAL"
+  },
+  {
+    "index": 72,
+    "soal": "開",
+    "nihongo": "あける",
+    "indonesiago": "MEMBUKA"
+  },
+  {
+    "index": 73,
+    "soal": "閉",
+    "nihongo": "しめる",
+    "indonesiago": "MENUTUP"
+  },
+  {
+    "index": 74,
+    "soal": "高",
+    "nihongo": "たかい",
+    "indonesiago": "TINGGI/MAHAL"
+  },
+  {
+    "index": 75,
+    "soal": "安",
+    "nihongo": "やすい",
+    "indonesiago": "MURAH"
+  },
+  {
+    "index": 76,
+    "soal": "新",
+    "nihongo": "あたらしい",
+    "indonesiago": "BARU"
+  },
+  {
+    "index": 77,
+    "soal": "古",
+    "nihongo": "ふるい",
+    "indonesiago": "LAMA/TUA"
+  },
+  {
+    "index": 78,
+    "soal": "大",
+    "nihongo": "おおきい",
+    "indonesiago": "BESAR"
+  },
+  {
+    "index": 79,
+    "soal": "小",
+    "nihongo": "ちいさい",
+    "indonesiago": "KECIL"
+  },
+  {
+    "index": 80,
+    "soal": "白",
+    "nihongo": "しろ",
+    "indonesiago": "PUTIH"
+  },
+  {
+    "index": 81,
+    "soal": "黒",
+    "nihongo": "くろ",
+    "indonesiago": "HITAM"
+  },
+  {
+    "index": 82,
+    "soal": "赤",
+    "nihongo": "あか",
+    "indonesiago": "MERAH"
+  },
+  {
+    "index": 83,
+    "soal": "青",
+    "nihongo": "あお",
+    "indonesiago": "BIRU"
+  },
+  {
+    "index": 84,
+    "soal": "早",
+    "nihongo": "はやい",
+    "indonesiago": "CEPAT"
+  },
+  {
+    "index": 85,
+    "soal": "多",
+    "nihongo": "おおい",
+    "indonesiago": "BANYAK"
+  },
+  {
+    "index": 86,
+    "soal": "少",
+    "nihongo": "すくない",
+    "indonesiago": "SEDIKIT"
+  },
+  {
+    "index": 87,
+    "soal": "長",
+    "nihongo": "ながい",
+    "indonesiago": "PANJANG"
+  },
+  {
+    "index": 88,
+    "soal": "短",
+    "nihongo": "みじかい",
+    "indonesiago": "PENDEK"
+  },
+  {
+    "index": 89,
+    "soal": "明",
+    "nihongo": "あかるい",
+    "indonesiago": "TERANG"
+  },
+  {
+    "index": 90,
+    "soal": "暗",
+    "nihongo": "くらい",
+    "indonesiago": "GELAP"
+  }, 
+  {
+    "index": 91,
+    "soal": "楽",
+    "nihongo": "たのしい",
+    "indonesiago": "MENYENANGKAN"
+  },
+  {
+    "index": 92,
+    "soal": "歌",
+    "nihongo": "うた",
+    "indonesiago": "LAGU"
+  },
+  {
+    "index": 93,
+    "soal": "音",
+    "nihongo": "おと",
+    "indonesiago": "SUARA"
+  },
+  {
+    "index": 94,
+    "soal": "色",
+    "nihongo": "いろ",
+    "indonesiago": "WARNA"
+  },
+  {
+    "index": 95,
+    "soal": "花",
+    "nihongo": "はな",
+    "indonesiago": "BUNGA"
+  },
+  {
+    "index": 96,
+    "soal": "草",
+    "nihongo": "くさ",
+    "indonesiago": "RUMPUT"
+  },
+  {
+    "index": 97,
+    "soal": "空",
+    "nihongo": "そら",
+    "indonesiago": "LANGIT"
+  },
+  {
+    "index": 98,
+    "soal": "星",
+    "nihongo": "ほし",
+    "indonesiago": "BINTANG"
+  },
+  {
+    "index": 99,
+    "soal": "風",
+    "nihongo": "かぜ",
+    "indonesiago": "ANGIN"
+  },
+  {
+    "index": 100,
+    "soal": "雪",
+    "nihongo": "ゆき",
+    "indonesiago": "SALJU"
+  },
+  {
+    "index": 101,
+    "soal": "夜",
+    "nihongo": "よる",
+    "indonesiago": "MALAM"
+  },
+  {
+    "index": 102,
+    "soal": "昼",
+    "nihongo": "ひる",
+    "indonesiago": "SIANG"
+  },
+  {
+    "index": 103,
+    "soal": "朝",
+    "nihongo": "あさ",
+    "indonesiago": "PAGI"
+  },
+  {
+    "index": 104,
+    "soal": "夕",
+    "nihongo": "ゆう",
+    "indonesiago": "SENJA"
+  },
+  {
+    "index": 105,
+    "soal": "村",
+    "nihongo": "むら",
+    "indonesiago": "DESA"
+  },
+  {
+    "index": 106,
+    "soal": "町",
+    "nihongo": "まち",
+    "indonesiago": "KOTA KECIL"
+  },
+  {
+    "index": 107,
+    "soal": "海",
+    "nihongo": "うみ",
+    "indonesiago": "LAUT"
+  },
+  {
+    "index": 108,
+    "soal": "池",
+    "nihongo": "いけ",
+    "indonesiago": "KOLAM"
+  },
+  {
+    "index": 109,
+    "soal": "船",
+    "nihongo": "ふね",
+    "indonesiago": "KAPAL"
+  },
+  {
+    "index": 110,
+    "soal": "橋",
+    "nihongo": "はし",
+    "indonesiago": "JEMBATAN"
+  },
+  {
+    "index": 111,
+    "soal": "道",
+    "nihongo": "みち",
+    "indonesiago": "JALAN"
+  },
+  {
+    "index": 112,
+    "soal": "歩",
+    "nihongo": "あるく",
+    "indonesiago": "BERJALAN"
+  },
+  {
+    "index": 113,
+    "soal": "遠",
+    "nihongo": "とおい",
+    "indonesiago": "JAUH"
+  },
+  {
+    "index": 114,
+    "soal": "近",
+    "nihongo": "ちかい",
+    "indonesiago": "DEKAT"
+  },
+  {
+    "index": 115,
+    "soal": "明日",
+    "nihongo": "あした",
+    "indonesiago": "BESOK"
+  },
+  {
+    "index": 116,
+    "soal": "昨日",
+    "nihongo": "きのう",
+    "indonesiago": "KEMARIN"
+  },
+  {
+    "index": 117,
+    "soal": "今日",
+    "nihongo": "きょう",
+    "indonesiago": "HARI INI"
+  },
+  {
+    "index": 118,
+    "soal": "会社",
+    "nihongo": "かいしゃ",
+    "indonesiago": "PERUSAHAAN"
+  },
+  {
+    "index": 119,
+    "soal": "店",
+    "nihongo": "みせ",
+    "indonesiago": "TOKO"
+  }
+]
