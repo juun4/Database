@@ -1,0 +1,1472 @@
+[
+  {
+    "index": 0,
+    "soal": "せかい",
+    "cara_baca": "SEKAI",
+    "arti": "DUNIA"
+  },
+  {
+    "index": 1,
+    "soal": "アジア",
+    "cara_baca": "AJIA",
+    "arti": "ASIA"
+  },
+  {
+    "index": 2,
+    "soal": "ヨーロッパ",
+    "cara_baca": "YO-ROPPA",
+    "arti": "EROPA"
+  },
+  {
+    "index": 3,
+    "soal": "アフリカ",
+    "cara_baca": "AFURIKA",
+    "arti": "AFRIKA"
+  },
+  {
+    "index": 4,
+    "soal": "にほん",
+    "cara_baca": "NIHON",
+    "arti": "JEPANG"
+  },
+  {
+    "index": 5,
+    "soal": "インドネシア",
+    "cara_baca": "INDONESIA",
+    "arti": "INDONESIA"
+  },
+  {
+    "index": 6,
+    "soal": "ちゅうごく",
+    "cara_baca": "CHUUGOKU",
+    "arti": "CHINA"
+  },
+  {
+    "index": 7,
+    "soal": "かんこく",
+    "cara_baca": "KANKOKU",
+    "arti": "KOREA"
+  },
+  {
+    "index": 8,
+    "soal": "マレーシア",
+    "cara_baca": "MARE-SHIA",
+    "arti": "MALAYSIA"
+  },
+  {
+    "index": 9,
+    "soal": "タイ",
+    "cara_baca": "TAI",
+    "arti": "THAILAND"
+  },
+  {
+    "index": 10,
+    "soal": "フィリピン",
+    "cara_baca": "FIRIPIN",
+    "arti": "FILIPINA"
+  },
+  {
+    "index": 11,
+    "soal": "ベトナム",
+    "cara_baca": "BETONAMU",
+    "arti": "VIETNAM"
+  },
+  {
+    "index": 12,
+    "soal": "シンガポール",
+    "cara_baca": "SINGAPO-RU",
+    "arti": "SINGAPURA"
+  },
+  {
+    "index": 13,
+    "soal": "ブルネイ",
+    "cara_baca": "BURUNEI",
+    "arti": "BRUNEI"
+  },
+  {
+    "index": 14,
+    "soal": "ホンコン",
+    "cara_baca": "HONKON",
+    "arti": "HONGKONG"
+  },
+  {
+    "index": 15,
+    "soal": "インド",
+    "cara_baca": "INDO",
+    "arti": "INDIA"
+  },
+  {
+    "index": 16,
+    "soal": "サウジアラビア",
+    "cara_baca": "SAUJI ARABIA",
+    "arti": "SAUDI ARABIA"
+  },
+  {
+    "index": 17,
+    "soal": "オーストラリア",
+    "cara_baca": "O-SUTORARIA",
+    "arti": "AUSTRALIA"
+  },
+  {
+    "index": 18,
+    "soal": "イギリス",
+    "cara_baca": "IGIRISU",
+    "arti": "INGGRIS"
+  },
+  {
+    "index": 19,
+    "soal": "ドイツ",
+    "cara_baca": "DOITSU",
+    "arti": "JERMAN"
+  },
+  {
+    "index": 20,
+    "soal": "フランス",
+    "cara_baca": "FURANSU",
+    "arti": "PRANCIS"
+  },
+  {
+    "index": 21,
+    "soal": "イタリア",
+    "cara_baca": "ITARIA",
+    "arti": "ITALIA"
+  },
+  {
+    "index": 22,
+    "soal": "オランダ",
+    "cara_baca": "ORANDA",
+    "arti": "BELANDA"
+  },
+  {
+    "index": 23,
+    "soal": "スペイン",
+    "cara_baca": "SUPEIN",
+    "arti": "SPANYOL"
+  },
+  {
+    "index": 24,
+    "soal": "ロシア",
+    "cara_baca": "ROSHIA",
+    "arti": "RUSIA"
+  },
+  {
+    "index": 25,
+    "soal": "アメリカ",
+    "cara_baca": "AMERIKA",
+    "arti": "AMERIKA"
+  },
+  {
+    "index": 26,
+    "soal": "カナダ",
+    "cara_baca": "KANADA",
+    "arti": "KANADA"
+  },
+  {
+    "index": 27,
+    "soal": "ほん",
+    "cara_baca": "HON",
+    "arti": "BUKU"
+  }, 
+  {
+    "index": 28,
+    "soal": "ぜんぶ",
+    "cara_baca": "ZENBU",
+    "arti": "SEMUA"
+  }, 
+  {
+    "index": 29,
+    "soal": "じしょ",
+    "cara_baca": "JISHO",
+    "arti": "KAMUS"
+  },
+  {
+    "index": 30,
+    "soal": "しんぶん",
+    "cara_baca": "SHINBUN",
+    "arti": "KORAN"
+  },
+  {
+    "index": 31,
+    "soal": "ざっし",
+    "cara_baca": "ZASSHI",
+    "arti": "MAJALAH"
+  },
+  {
+    "index": 32,
+    "soal": "はこ",
+    "cara_baca": "HAKO",
+    "arti": "KOTAK"
+  },
+  {
+    "index": 33,
+    "soal": "かばん",
+    "cara_baca": "KABAN",
+    "arti": "TAS"
+  },
+  {
+    "index": 34,
+    "soal": "かぎ",
+    "cara_baca": "KAGI",
+    "arti": "KUNCI"
+  },
+  {
+    "index": 35,
+    "soal": "えんぴつ",
+    "cara_baca": "ENPITSU",
+    "arti": "PENSIL"
+  },
+  {
+    "index": 36,
+    "soal": "ボールペン",
+    "cara_baca": "BO-RUPEN",
+    "arti": "BOLPOIN"
+  },
+  {
+    "index": 37,
+    "soal": "ペン",
+    "cara_baca": "PEN",
+    "arti": "PENA"
+  },
+  {
+    "index": 38,
+    "soal": "ノート",
+    "cara_baca": "NO-TO",
+    "arti": "BUKU CATATAN"
+  },
+  {
+    "index": 39,
+    "soal": "かみ",
+    "cara_baca": "KAMI",
+    "arti": "KERTAS"
+  },
+  {
+    "index": 40,
+    "soal": "たばこ",
+    "cara_baca": "TABAKO",
+    "arti": "ROKOK"
+  },
+  {
+    "index": 41,
+    "soal": "マッチ",
+    "cara_baca": "MACCHI",
+    "arti": "KOREK API"
+  },
+  {
+    "index": 42,
+    "soal": "はいざら",
+    "cara_baca": "HAIZARA",
+    "arti": "ASBAK"
+  },
+  {
+    "index": 43,
+    "soal": "ライター",
+    "cara_baca": "RAITA-",
+    "arti": "KOREK GAS"
+  },
+  {
+    "index": 44,
+    "soal": "つくえ",
+    "cara_baca": "TSUKUE",
+    "arti": "MEJA"
+  },
+  {
+    "index": 45,
+    "soal": "いす",
+    "cara_baca": "ISU",
+    "arti": "KURSI"
+  },
+  {
+    "index": 46,
+    "soal": "まど",
+    "cara_baca": "MADO",
+    "arti": "JENDELA"
+  },
+  {
+    "index": 47,
+    "soal": "でんき",
+    "cara_baca": "DENKI",
+    "arti": "LISTRIK"
+  },
+  {
+    "index": 48,
+    "soal": "スイッチ",
+    "cara_baca": "SUICCHI",
+    "arti": "SAKLAR"
+  },
+  {
+    "index": 49,
+    "soal": "ドア",
+    "cara_baca": "DOA",
+    "arti": "PINTU"
+  },
+  {
+    "index": 50,
+    "soal": "テレビ",
+    "cara_baca": "TEREBI",
+    "arti": "TELEVISI"
+  },
+  {
+    "index": 51,
+    "soal": "ラジオ",
+    "cara_baca": "RAJIO",
+    "arti": "RADIO"
+  },
+  {
+    "index": 52,
+    "soal": "とけい",
+    "cara_baca": "TOKEI",
+    "arti": "JAM"
+  },
+  {
+    "index": 53,
+    "soal": "カメラ",
+    "cara_baca": "KAMERA",
+    "arti": "KAMERA"
+  },
+  {
+    "index": 54,
+    "soal": "じどうしゃ",
+    "cara_baca": "JIDOUSHA",
+    "arti": "MOBIL"
+  },
+  {
+    "index": 55,
+    "soal": "いえ",
+    "cara_baca": "-IE",
+    "arti": "RUMAH"
+  },
+  {
+    "index": 56,
+    "soal": "にわ",
+    "cara_baca": "NIWA",
+    "arti": "HALAMAN"
+  },
+  {
+    "index": 57,
+    "soal": "かいしゃ",
+    "cara_baca": "KAISHA",
+    "arti": "PERUSAHAAN"
+  },
+  {
+    "index": 58,
+    "soal": "じむしょ",
+    "cara_baca": "JIMUSHO",
+    "arti": "KANTOR"
+  },
+  {
+    "index": 59,
+    "soal": "うけつけ",
+    "cara_baca": "UKETSUKUE",
+    "arti": "PENERIMA TAMU"
+  },
+  {
+    "index": 60,
+    "soal": "ロビー",
+    "cara_baca": "ROBI",
+    "arti": "RUANG TUNGGU"
+  },
+  {
+    "index": 61,
+    "soal": "へや",
+    "cara_baca": "HEYA",
+    "arti": "KAMAR"
+  },
+  {
+    "index": 62,
+    "soal": "おてあらい",
+    "cara_baca": "OTEARAI",
+    "arti": "KAMAR KECIL"
+  },
+  {
+    "index": 63,
+    "soal": "きょうしつ",
+    "cara_baca": "KYOUSHITSU",
+    "arti": "RUANG KELAS"
+  },
+  {
+    "index": 64,
+    "soal": "しょくどう",
+    "cara_baca": "SHOKUDOU",
+    "arti": "KANTIN"
+  },
+  {
+    "index": 65,
+    "soal": "せんもん",
+    "cara_baca": "SENMON",
+    "arti": "JURUSAN"
+  },
+  {
+    "index": 66,
+    "soal": "でんき",
+    "cara_baca": "DENKI",
+    "arti": "LISTRIK"
+  },
+  {
+    "index": 67,
+    "soal": "きかい",
+    "cara_baca": "KIKAI",
+    "arti": "MESIN"
+  },
+  {
+    "index": 68,
+    "soal": "コンピューター",
+    "cara_baca": "KONPYU-TA-",
+    "arti": "KOMPUTER"
+  },
+  {
+    "index": 69,
+    "soal": "あさ",
+    "cara_baca": "ASA",
+    "arti": "PAGI"
+  },
+  {
+    "index": 70,
+    "soal": "ひる",
+    "cara_baca": "HIRU",
+    "arti": "SIANG"
+  },
+  {
+    "index": 71,
+    "soal": "ばん/よる",
+    "cara_baca": "BAN/YORU",
+    "arti": "MALAM"
+  },
+  {
+    "index": 72,
+    "soal": "ごぜん",
+    "cara_baca": "GOZEN",
+    "arti": "WAKTU SEBELUM JAM 12 SIANG (AM)"
+  },
+  {
+    "index": 73,
+    "soal": "ごご",
+    "cara_baca": "GOGO",
+    "arti": "WAKTU SETELAH JAM 12 SIANG (PM)"
+  },
+  {
+    "index": 74,
+    "soal": "えき",
+    "cara_baca": "EKI",
+    "arti": "STASIUN"
+  },
+  {
+    "index": 75,
+    "soal": "こうじょう",
+    "cara_baca": "KOUJOU",
+    "arti": "PABRIK"
+  },
+  {
+    "index": 76,
+    "soal": "ぎんこう",
+    "cara_baca": "GINKOU",
+    "arti": "BANK"
+  },
+  {
+    "index": 77,
+    "soal": "びょういん",
+    "cara_baca": "BYOUIN",
+    "arti": "RUMAH SAKIT"
+  },
+  {
+    "index": 78,
+    "soal": "デパート",
+    "cara_baca": "DEPA-TO",
+    "arti": "DEPARTEMENT STORE"
+  },
+  {
+    "index": 79,
+    "soal": "ほんや",
+    "cara_baca": "HONYA",
+    "arti": "TOKO BUKU"
+  },
+  {
+    "index": 80,
+    "soal": "とこや",
+    "cara_baca": "TOKOYA",
+    "arti": "PANGKAS RAMBUT"
+  },
+  {
+    "index": 81,
+    "soal": "たんじょうび",
+    "cara_baca": "TANJOUBI",
+    "arti": "HARI ULANG TAHUN"
+  },
+  {
+    "index": 82,
+    "soal": "ひこうき",
+    "cara_baca": "HIKOUKI",
+    "arti": "PESAWAT TERBANG"
+  },
+  {
+    "index": 83,
+    "soal": "しんかんせん",
+    "cara_baca": "SHINKANSEN",
+    "arti": "KERETA SUPER CEPAT"
+  },
+  {
+    "index": 84,
+    "soal": "でんしゃ",
+    "cara_baca": "DENSHA",
+    "arti": "KERETA LISTRIK"
+  },
+  {
+    "index": 85,
+    "soal": "ちかてつ",
+    "cara_baca": "CHIKATETSU",
+    "arti": "KERETA BAWAH TANAH"
+  },
+  {
+    "index": 86,
+    "soal": "タクシー",
+    "cara_baca": "TAKUSHI-",
+    "arti": "TAKSI"
+  },
+  {
+    "index": 87,
+    "soal": "バス",
+    "cara_baca": "BASU",
+    "arti": "BIS"
+  },
+  {
+    "index": 88,
+    "soal": "じてんしゃ",
+    "cara_baca": "JITENSHA",
+    "arti": "SEPEDA"
+  }, 
+  {
+    "index": 89,
+    "soal": "あるいて",
+    "cara_baca": "ARUITE",
+    "arti": "BERJALAN"
+  },
+  {
+    "index": 90,
+    "soal": "ふね",
+    "cara_baca": "FUNE",
+    "arti": "KAPAL"
+  },
+  {
+    "index": 91,
+    "soal": "ひとり（で）",
+    "cara_baca": "HITORI DE",
+    "arti": "SENDIRIAN"
+  },
+  {
+    "index": 92,
+    "soal": "ともだち（と）",
+    "cara_baca": "TOMODACHI TO",
+    "arti": "(BERSAMA) TEMAN"
+  },
+  {
+    "index": 93,
+    "soal": "こいびと（と）",
+    "cara_baca": "KOIBITO TO",
+    "arti": "(BERSAMA) PACAR"
+  },
+  {
+    "index": 94,
+    "soal": "あさごはん",
+    "cara_baca": "ASAGOHAN",
+    "arti": "SARAPAN"
+  },
+  {
+    "index": 95,
+    "soal": "ひるごはん",
+    "cara_baca": "HIRUGOHAN",
+    "arti": "MAKAN SIANG"
+  },
+  {
+    "index": 96,
+    "soal": "ばんごはん",
+    "cara_baca": "BANGOHAN",
+    "arti": "MAKAN MALAM"
+  },
+  {
+    "index": 97,
+    "soal": "たべもの",
+    "cara_baca": "TABEMONO",
+    "arti": "MAKANAN"
+  },
+  {
+    "index": 98,
+    "soal": "ごはん",
+    "cara_baca": "GOHAN",
+    "arti": "NASI"
+  },
+  {
+    "index": 99,
+    "soal": "パン",
+    "cara_baca": "PAN",
+    "arti": "ROTI"
+  },
+  {
+    "index": 100,
+    "soal": "にく",
+    "cara_baca": "NIKU",
+    "arti": "DAGING"
+  },
+  {
+    "index": 101,
+    "soal": "さかな",
+    "cara_baca": "SAKANA",
+    "arti": "IKAN"
+  },
+  {
+    "index": 102,
+    "soal": "たまご",
+    "cara_baca": "TAMAGO",
+    "arti": "TELUR"
+  },
+  {
+    "index": 103,
+    "soal": "やさい",
+    "cara_baca": "YASAI",
+    "arti": "SAYURAN"
+  },
+  {
+    "index": 104,
+    "soal": "くだもの",
+    "cara_baca": "KUDAMONO",
+    "arti": "BUAH-BUAHAN"
+  },
+  {
+    "index": 105,
+    "soal": "りんご",
+    "cara_baca": "RINGO",
+    "arti": "APEL"
+  },
+  {
+    "index": 106,
+    "soal": "みかん",
+    "cara_baca": "MIKAN",
+    "arti": "JERUK"
+  },
+  {
+    "index": 107,
+    "soal": "バナナ",
+    "cara_baca": "BANANA",
+    "arti": "PISANG"
+  },
+  {
+    "index": 108,
+    "soal": "ぶどう",
+    "cara_baca": "BUDOU",
+    "arti": "ANGGUR"
+  },
+  {
+    "index": 109,
+    "soal": "パイナップル",
+    "cara_baca": "PAINAPPURU",
+    "arti": "NANAS"
+  },
+  {
+    "index": 110,
+    "soal": "すいか",
+    "cara_baca": "SUIKA",
+    "arti": "SEMANGKA"
+  },
+  {
+    "index": 111,
+    "soal": "のみもの",
+    "cara_baca": "NOMIMONO",
+    "arti": "MINUMAN"
+  },
+  {
+    "index": 112,
+    "soal": "コーヒー",
+    "cara_baca": "KO-HI-",
+    "arti": "KOPI"
+  },
+  {
+    "index": 113,
+    "soal": "こうちゃ",
+    "cara_baca": "KOUCHA",
+    "arti": "TEH"
+  },
+  {
+    "index": 114,
+    "soal": "おちゃ",
+    "cara_baca": "OCHA",
+    "arti": "TEH JEPANG"
+  },
+  {
+    "index": 115,
+    "soal": "ぎゅうにゅう",
+    "cara_baca": "GYUUNYUU",
+    "arti": "SUSU SAPI"
+  },
+  {
+    "index": 116,
+    "soal": "ジュース",
+    "cara_baca": "JU-SU",
+    "arti": "JUS"
+  },
+  {
+    "index": 117,
+    "soal": "ビール",
+    "cara_baca": "BI-RU",
+    "arti": "BIR"
+  },
+  {
+    "index": 118,
+    "soal": "ワイスキー",
+    "cara_baca": "WAISUKI-",
+    "arti": "WISKI"
+  },
+  {
+    "index": 119,
+    "soal": "おさけ",
+    "cara_baca": "OSAKE",
+    "arti": "SAKE"
+  },
+  {
+    "index": 120,
+    "soal": "みず",
+    "cara_baca": "MIZU",
+    "arti": "AIR"
+  },
+  {
+    "index": 121,
+    "soal": "シャツ",
+    "cara_baca": "SHATSU",
+    "arti": "PAKAIAN"
+  },
+  {
+    "index": 122,
+    "soal": "ネクタイ",
+    "cara_baca": "NEKUTAI",
+    "arti": "DASI"
+  },
+  {
+    "index": 123,
+    "soal": "くつ",
+    "cara_baca": "KUTSU",
+    "arti": "SEPATU"
+  },
+  {
+    "index": 124,
+    "soal": "くすり",
+    "cara_baca": "KUSURI",
+    "arti": "OBAT"
+  },
+  {
+    "index": 125,
+    "soal": "はな",
+    "cara_baca": "HANA",
+    "arti": "BUNGA"
+  },
+  {
+    "index": 126,
+    "soal": "てがみ",
+    "cara_baca": "TEGAMI",
+    "arti": "SURAT"
+  },
+  {
+    "index": 127,
+    "soal": "きって",
+    "cara_baca": "KITTE",
+    "arti": "PERANGKO"
+  },
+  {
+    "index": 128,
+    "soal": "ふうとう",
+    "cara_baca": "FUUTOU",
+    "arti": "AMPLOP"
+  },
+  {
+    "index": 129,
+    "soal": "エアメール",
+    "cara_baca": "EAME-RU",
+    "arti": "POS UDARA"
+  },
+  {
+    "index": 130,
+    "soal": "はがき",
+    "cara_baca": "HAGAKI",
+    "arti": "KARTU POS"
+  },
+  {
+    "index": 131,
+    "soal": "えはがき",
+    "cara_baca": "EHAGAKI",
+    "arti": "KARTU POS BERGAMBAR"
+  },
+  {
+    "index": 132,
+    "soal": "きっぷ",
+    "cara_baca": "KIPPU",
+    "arti": "KARCIS"
+  },
+  {
+    "index": 133,
+    "soal": "えいが",
+    "cara_baca": "EIGA",
+    "arti": "FILM"
+  },
+  {
+    "index": 134,
+    "soal": "こうぎ",
+    "cara_baca": "KOUGI",
+    "arti": "KULIAH"
+  },
+  {
+    "index": 135,
+    "soal": "はし",
+    "cara_baca": "HASHI",
+    "arti": "SUMPI"
+  },
+  {
+    "index": 136,
+    "soal": "スプーン",
+    "cara_baca": "SUPU-N",
+    "arti": "SENDOK"
+  },
+  {
+    "index": 137,
+    "soal": "フォーク",
+    "cara_baca": "FO-KU",
+    "arti": "SENDOK GARPU"
+  },
+  {
+    "index": 138,
+    "soal": "ナイフ",
+    "cara_baca": "NAIFU",
+    "arti": "PISAU"
+  },
+  {
+    "index": 139,
+    "soal": "ドライバー",
+    "cara_baca": "DORAIBA-",
+    "arti": "OBENG"
+  },
+  {
+    "index": 140,
+    "soal": "スパナ",
+    "cara_baca": "SUPANA",
+    "arti": "KUNCI PAS"
+  },
+  {
+    "index": 141,
+    "soal": "ペンチ",
+    "cara_baca": "PENCHI",
+    "arti": "TANG"
+  },
+  {
+    "index": 142,
+    "soal": "はさみ",
+    "cara_baca": "HASAMI",
+    "arti": "GUNTING"
+  },
+  {
+    "index": 143,
+    "soal": "カッタ",
+    "cara_baca": "KATTA",
+    "arti": "KARTER"
+  },
+  {
+    "index": 144,
+    "soal": "かぞく",
+    "cara_baca": "KAZOKU",
+    "arti": "KELUARGA"
+  },
+  {
+    "index": 145,
+    "soal": "きょうだい",
+    "cara_baca": "KYOUDAI",
+    "arti": "SAUDARA"
+  },
+  {
+    "index": 146,
+    "soal": "おとうさん",
+    "cara_baca": "OTOUSAN",
+    "arti": "BAPAK (ORLA)"
+  },
+  {
+    "index": 147,
+    "soal": "おかあさん",
+    "cara_baca": "OKAASAN",
+    "arti": "IBU (ORLA)"
+  },
+  {
+    "index": 148,
+    "soal": "おにいさん",
+    "cara_baca": "ONIISAN",
+    "arti": "KAKAK LAKI-LAKI (ORLA)"
+  },
+  {
+    "index": 149,
+    "soal": "おねえさん",
+    "cara_baca": "ONEESAN",
+    "arti": "KAKAK PEREMPUAN (ORLA)"
+  },
+  {
+    "index": 150,
+    "soal": "おとうとさん",
+    "cara_baca": "OTOUTOSAN",
+    "arti": "ADIK LAKI-LAKI (ORLA)"
+  },
+  {
+    "index": 151,
+    "soal": "いもうとさん",
+    "cara_baca": "IMOUTOSAN",
+    "arti": "ADIK PEREMPUAN (ORLA)"
+  },
+  {
+    "index": 152,
+    "soal": "にもつ",
+    "cara_baca": "NIMOTSU",
+    "arti": "BARANG"
+  },
+  {
+    "index": 153,
+    "soal": "カタログ",
+    "cara_baca": "KATAROGU",
+    "arti": "KATALOG"
+  },
+  {
+    "index": 154,
+    "soal": "レポート",
+    "cara_baca": "REPO-TO",
+    "arti": "LAPORAN"
+  },
+  {
+    "index": 155,
+    "soal": "おかね",
+    "cara_baca": "OKANE",
+    "arti": "UANG"
+  },
+  {
+    "index": 156,
+    "soal": "やま",
+    "cara_baca": "YAMA",
+    "arti": "GUNUNG"
+  },
+  {
+    "index": 157,
+    "soal": "かわ",
+    "cara_baca": "KAWA",
+    "arti": "SUNGAI"
+  },
+  {
+    "index": 158,
+    "soal": "まち",
+    "cara_baca": "MACHI",
+    "arti": "KOTA"
+  },
+  {
+    "index": 159,
+    "soal": "うみ",
+    "cara_baca": "UMI",
+    "arti": "LAUT"
+  },
+  {
+    "index": 160,
+    "soal": "ぶたにく",
+    "cara_baca": "BUTANIKU",
+    "arti": "DAGING BABI"
+  },
+  {
+    "index": 161,
+    "soal": "とりにく",
+    "cara_baca": "TORINIKU",
+    "arti": "DAGING AYAM"
+  },
+  {
+    "index": 162,
+    "soal": "ぎゅうにく",
+    "cara_baca": "GYUUNIKU",
+    "arti": "DAGING SAPI"
+  },
+  {
+    "index": 163,
+    "soal": "りょうり",
+    "cara_baca": "RYOURI",
+    "arti": "MASAKAN"
+  },
+  {
+    "index": 164,
+    "soal": "スポーツ",
+    "cara_baca": "SUPO-TSU",
+    "arti": "OLAHRAGA"
+  },
+  {
+    "index": 165,
+    "soal": "ピンポン",
+    "cara_baca": "PINPON",
+    "arti": "PINGPONG"
+  },
+  {
+    "index": 166,
+    "soal": "サッカ",
+    "cara_baca": "SAKKA",
+    "arti": "SEPAK BOLA"
+  },
+  {
+    "index": 167,
+    "soal": "スキー",
+    "cara_baca": "SUKI-",
+    "arti": "SKI"
+  },
+  {
+    "index": 168,
+    "soal": "やきゅう",
+    "cara_baca": "YAKYUU",
+    "arti": "BASE BALL"
+  },
+  {
+    "index": 169,
+    "soal": "おんがく",
+    "cara_baca": "ONGAKU",
+    "arti": "MUSIK"
+  },
+  {
+    "index": 170,
+    "soal": "うた",
+    "cara_baca": "UTA",
+    "arti": "LAGU"
+  },
+  {
+    "index": 171,
+    "soal": "ギター",
+    "cara_baca": "GITA-",
+    "arti": "GITAR"
+  },
+  {
+    "index": 172,
+    "soal": "ダンス",
+    "cara_baca": "DANSU",
+    "arti": "DANSA"
+  },
+  {
+    "index": 173,
+    "soal": "かんじ",
+    "cara_baca": "KANJI",
+    "arti": "HURUF KANJI"
+  },
+  {
+    "index": 174,
+    "soal": "ひらがな",
+    "cara_baca": "HIRAGANA",
+    "arti": "HURUF HIRAGANA"
+  },
+  {
+    "index": 175,
+    "soal": "カタカナ",
+    "cara_baca": "KATAKANA",
+    "arti": "HURUF KATAKANA"
+  },
+  {
+    "index": 176,
+    "soal": "ローマ字",
+    "cara_baca": "RO-MA JI",
+    "arti": "HURUF LATIN"
+  },
+  {
+    "index": 177,
+    "soal": "ゆうびんきょく",
+    "cara_baca": "YUUBINKYOKU",
+    "arti": "KANTOR POS"
+  },
+  {
+    "index": 178,
+    "soal": "テニス",
+    "cara_baca": "TENISU",
+    "arti": "TENIS"
+  },
+  {
+    "index": 179,
+    "soal": "ポスト",
+    "cara_baca": "POSUTO",
+    "arti": "KOTAK POS"
+  },
+  {
+    "index": 180,
+    "soal": "レストラン",
+    "cara_baca": "RESUTORAN",
+    "arti": "RESTORAN"
+  },
+  {
+    "index": 181,
+    "soal": "がっこう",
+    "cara_baca": "GAKKOU",
+    "arti": "SEKOLAH"
+  },
+  {
+    "index": 182,
+    "soal": "たいしかん",
+    "cara_baca": "TAISHIKAN",
+    "arti": "KEDUTAAN BESAR"
+  },
+  {
+    "index": 183,
+    "soal": "パスポート",
+    "cara_baca": "PASUPO-TO",
+    "arti": "PASPOR"
+  },
+  {
+    "index": 184,
+    "soal": "こうえん",
+    "cara_baca": "KOUEN",
+    "arti": "TAMAN"
+  },
+  {
+    "index": 185,
+    "soal": "ビル",
+    "cara_baca": "BIRU",
+    "arti": "GEDUNG"
+  },
+  {
+    "index": 186,
+    "soal": "おとこのひと",
+    "cara_baca": "OTOKO NO HITO",
+    "arti": "LAKI-LAKI"
+  },
+  {
+    "index": 187,
+    "soal": "おんなのひと",
+    "cara_baca": "ONNA NO HITO",
+    "arti": "PEREMPUAN"
+  },
+  {
+    "index": 188,
+    "soal": "うえ",
+    "cara_baca": "UE",
+    "arti": "ATAS"
+  },
+  {
+    "index": 189,
+    "soal": "した",
+    "cara_baca": "SHITA",
+    "arti": "BAWAH"
+  },
+  {
+    "index": 190,
+    "soal": "まえ",
+    "cara_baca": "MAE",
+    "arti": "DEPAN"
+  },
+  {
+    "index": 191,
+    "soal": "うしろ",
+    "cara_baca": "USHIRO",
+    "arti": "BELAKANG"
+  },
+  {
+    "index": 192,
+    "soal": "みぎ",
+    "cara_baca": "MIGI",
+    "arti": "KANAN"
+  },
+  {
+    "index": 193,
+    "soal": "ひだり",
+    "cara_baca": "HIDARI",
+    "arti": "KIRI"
+  },
+  {
+    "index": 194,
+    "soal": "なか",
+    "cara_baca": "NAKA",
+    "arti": "DALAM"
+  },
+  {
+    "index": 195,
+    "soal": "そと",
+    "cara_baca": "SOTO",
+    "arti": "LUAR"
+  },
+  {
+    "index": 196,
+    "soal": "あいだ",
+    "cara_baca": "AIDA",
+    "arti": "ANTARA"
+  },
+  {
+    "index": 197,
+    "soal": "てんき",
+    "cara_baca": "TENKI",
+    "arti": "CUACA"
+  },
+  {
+    "index": 198,
+    "soal": "はれ",
+    "cara_baca": "HARE",
+    "arti": "CERAH"
+  },
+  {
+    "index": 199,
+    "soal": "くもり",
+    "cara_baca": "KUMORI",
+    "arti": "MENDUNG"
+  },
+  {
+    "index": 200,
+    "soal": "あめ",
+    "cara_baca": "AME",
+    "arti": "HUJAN"
+  },
+  {
+    "index": 201,
+    "soal": "ゆき",
+    "cara_baca": "YUKI",
+    "arti": "SALJU"
+  },
+  {
+    "index": 202,
+    "soal": "りょこう",
+    "cara_baca": "RYOKOU",
+    "arti": "REKREASI"
+  },
+  {
+    "index": 203,
+    "soal": "おみやげ",
+    "cara_baca": "OMIYAGE",
+    "arti": "OLEH-OLEH"
+  },
+  {
+    "index": 204,
+    "soal": "しごと",
+    "cara_baca": "SHIGOTO",
+    "arti": "PEKERJAAN"
+  },
+  {
+    "index": 205,
+    "soal": "せんせい",
+    "cara_baca": "SENSEI",
+    "arti": "GURU"
+  },
+  {
+    "index": 206,
+    "soal": "サラリーマン",
+    "cara_baca": "SARARI-MAN",
+    "arti": "KARYAWAN"
+  },
+  {
+    "index": 207,
+    "soal": "おまわりさん",
+    "cara_baca": "OMAWARISAN",
+    "arti": "POLISI"
+  },
+  {
+    "index": 208,
+    "soal": "おいしゃさん",
+    "cara_baca": "OISHASAN",
+    "arti": "DOKTER"
+  },
+  {
+    "index": 209,
+    "soal": "エンジニア",
+    "cara_baca": "ENJINIA",
+    "arti": "AHLI MESIN"
+  },
+  {
+    "index": 210,
+    "soal": "ラジカセ",
+    "cara_baca": "RAJIKASE",
+    "arti": "RADIO KASET"
+  },
+  {
+    "index": 211,
+    "soal": "しお",
+    "cara_baca": "SHIO",
+    "arti": "GARAM"
+  },
+  {
+    "index": 212,
+    "soal": "さとう",
+    "cara_baca": "SATOU",
+    "arti": "GULA"
+  },
+  {
+    "index": 213,
+    "soal": "しょうゆ",
+    "cara_baca": "SHOUYU",
+    "arti": "KECAP ASIN"
+  },
+  {
+    "index": 214,
+    "soal": "せっけん",
+    "cara_baca": "SEKKEN",
+    "arti": "SABUN"
+  },
+  {
+    "index": 215,
+    "soal": "タオル",
+    "cara_baca": "TAORU",
+    "arti": "HANDUK"
+  },
+  {
+    "index": 216,
+    "soal": "はみがき",
+    "cara_baca": "HAMIGAKI",
+    "arti": "PASTA GIGI"
+  },
+  {
+    "index": 217,
+    "soal": "ハブラシ",
+    "cara_baca": "HABURASHI",
+    "arti": "SIKAT GIGI"
+  },
+  {
+    "index": 218,
+    "soal": "シャンプー",
+    "cara_baca": "SHANPOO",
+    "arti": "SHAMPOO"
+  },
+  {
+    "index": 219,
+    "soal": "かさ",
+    "cara_baca": "KASA",
+    "arti": "PAYUNG"
+  },
+  {
+    "index": 220,
+    "soal": "ふく",
+    "cara_baca": "FUKU",
+    "arti": "PAKAIAN"
+  },
+  {
+    "index": 221,
+    "soal": "きもの",
+    "cara_baca": "KIMONO",
+    "arti": "PAKAIAN KHAS JPN"
+  },
+  {
+    "index": 222,
+    "soal": "かお",
+    "cara_baca": "KAO",
+    "arti": "WAJAH"
+  },
+  {
+    "index": 223,
+    "soal": "かみ",
+    "cara_baca": "KAMI",
+    "arti": "RAMBUT"
+  },
+  {
+    "index": 224,
+    "soal": "め",
+    "cara_baca": "ME",
+    "arti": "MATA"
+  },
+  {
+    "index": 225,
+    "soal": "みみ",
+    "cara_baca": "MIMI",
+    "arti": "TELINGA"
+  },
+  {
+    "index": 226,
+    "soal": "はな",
+    "cara_baca": "HANA",
+    "arti": "HIDUNG"
+  },
+  {
+    "index": 227,
+    "soal": "くち",
+    "cara_baca": "KUCHI",
+    "arti": "MULUT"
+  },
+  {
+    "index": 228,
+    "soal": "は",
+    "cara_baca": "HA",
+    "arti": "GIGI"
+  },
+  {
+    "index": 229,
+    "soal": "て",
+    "cara_baca": "TE",
+    "arti": "TANGAN"
+  },
+  {
+    "index": 230,
+    "soal": "あし",
+    "cara_baca": "ASHI",
+    "arti": "KAKI"
+  },
+  {
+    "index": 231,
+    "soal": "でんきせいひん",
+    "cara_baca": "DENKISEIHIN",
+    "arti": "PERALATAN LISTRIK"
+  },
+  {
+    "index": 232,
+    "soal": "れいぞうこ",
+    "cara_baca": "REIZOUKO",
+    "arti": "LEMARI ES"
+  },
+  {
+    "index": 233,
+    "soal": "すいはんき",
+    "cara_baca": "SUIHANKI",
+    "arti": "PENANAK NASI"
+  },
+  {
+    "index": 234,
+    "soal": "そうじき",
+    "cara_baca": "SOUJIKI",
+    "arti": "A.PENGHISAP DEBU"
+  },
+  {
+    "index": 235,
+    "soal": "せんたくき",
+    "cara_baca": "SENTAKUKI",
+    "arti": "MESIN CUCI"
+  },
+  {
+    "index": 236,
+    "soal": "オーバー",
+    "cara_baca": "O-BA-",
+    "arti": "MANTEL"
+  },
+  {
+    "index": 237,
+    "soal": "コート",
+    "cara_baca": "KO-TO",
+    "arti": "JAS HUJAN"
+  },
+  {
+    "index": 238,
+    "soal": "セーター",
+    "cara_baca": "SE-TA-",
+    "arti": "SWEATER"
+  },
+  {
+    "index": 239,
+    "soal": "ぼうし",
+    "cara_baca": "BOUSHI",
+    "arti": "TOPI"
+  },
+  {
+    "index": 240,
+    "soal": "てぶくろ",
+    "cara_baca": "TEBUKURO",
+    "arti": "SARUNG TANGAN"
+  },
+  {
+    "index": 241,
+    "soal": "マフラー",
+    "cara_baca": "MAFURAA",
+    "arti": "SYAL"
+  },
+  {
+    "index": 242,
+    "soal": "こうさてん",
+    "cara_baca": "KOUSATEN",
+    "arti": "PEREMPATAN"
+  },
+  {
+    "index": 243,
+    "soal": "しんごう",
+    "cara_baca": "SHINGOU",
+    "arti": "LAMPU MERAH"
+  },
+  {
+    "index": 244,
+    "soal": "しゅみ",
+    "cara_baca": "SHUMI",
+    "arti": "HOBI"
+  }
+]
