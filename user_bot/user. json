@@ -128,8 +128,9 @@
     "nama": "sull",
     "umur": 16,
     "serial": "0KrCCfzDzhjckbzCxs",
-    "limit": 20,
-    "premium": false
+    "limit": 9999,
+    "premium": true,
+    "premiumExpire": 1759921733967
   },
   {
     "id": "92557132484814@lid",
