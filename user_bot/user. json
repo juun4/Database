@@ -13,7 +13,7 @@
     "umur": 18,
     "serial": "yfOQO4soMLwgNOqWC3",
     "limit": 25,
-    "premium": true,
+    "premium": false,
     "premium_expired": null
   },
   {
