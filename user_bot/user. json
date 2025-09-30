@@ -17,6 +17,7 @@
     "limit": 15,
     "premium": false,
     "premiumExpire": null
+    "depositSaldo": 0
   },
   {
     "id": "105068070219885@lid",
@@ -24,7 +25,8 @@
     "umur": 18,
     "serial": "NERHFa9Qw1aNZrdVQk",
     "limit": 25,
-    "premium": false
+    "premium": false, 
+    "depositSaldo": 0
   },
   {
     "id": "204900508147805@lid",
@@ -32,7 +34,8 @@
     "umur": 25,
     "serial": "pnPUXM7Ki3c2fikaxw",
     "limit": 25,
-    "premium": false
+    "premium": false, 
+    "depositSaldo": 0
   },
   {
     "id": "9131234705477@lid",
@@ -40,7 +43,8 @@
     "umur": 16,
     "serial": "y0o16ROD4QSrrfZFYG",
     "limit": 25,
-    "premium": false
+    "premium": false, 
+    "depositSaldo": 0
   },
   {
     "id": "137885915299934@lid",
@@ -48,7 +52,8 @@
     "umur": 20,
     "serial": "U19KgtBGpN4KtnILU5",
     "limit": 21,
-    "premium": false
+    "premium": false, 
+    "depositSaldo": 0
   },
   {
     "id": "30722521874593@lid",
@@ -56,7 +61,8 @@
     "umur": 20,
     "serial": "XFOUFAjhoAQ7ZF8ZnR",
     "limit": 21,
-    "premium": false
+    "premium": false, 
+    "depositSaldo": 0
   },
   {
     "id": "101846676938850@lid",
@@ -64,7 +70,8 @@
     "umur": 14,
     "serial": "wBt0Tp4W3NHNBVs8ny",
     "limit": 25,
-    "premium": false
+    "premium": false, 
+    "depositSaldo": 0
   },
   {
     "id": "158476290506753@lid",
@@ -73,7 +80,8 @@
     "serial": "0u9hVvrXn38bwxr2JX",
     "limit": 9989,
     "premium": true,
-    "premiumExpire": 1759822249959
+    "premiumExpire": 1759822249959,
+    "depositSaldo": 0
   },
   {
     "id": "131868380901404@lid",
@@ -81,7 +89,8 @@
     "umur": 20,
     "serial": "PfScQx8HmuzXgDHN2t",
     "limit": 24,
-    "premium": false
+    "premium": false, 
+    "depositSaldo": 0
   },
   {
     "id": "101318597333230@lid",
@@ -89,7 +98,8 @@
     "umur": 13,
     "serial": "i7OlwU0LlxsuAqghai",
     "limit": 23,
-    "premium": false
+    "premium": false, 
+    "depositSaldo": 0
   },
   {
     "id": "272361425252380@lid",
@@ -97,7 +107,8 @@
     "umur": 19,
     "serial": "w1CLi201arFKM675j2",
     "limit": 23,
-    "premium": false
+    "premium": false, 
+    "depositSaldo": 0
   },
   {
     "id": "204565634932872@lid",
@@ -105,7 +116,8 @@
     "umur": 20,
     "serial": "aep2dLj11SD7BMU4yc",
     "limit": 25,
-    "premium": false
+    "premium": false, 
+    "depositSaldo": 0
   },
   {
     "id": "247183991406836@lid",
@@ -113,7 +125,8 @@
     "umur": 21,
     "serial": "6PicOU6GXtDAT6ip9y",
     "limit": 25,
-    "premium": false
+    "premium": false, 
+    "depositSaldo": 0
   },
   {
     "id": "1512029831215@lid",
@@ -121,7 +134,8 @@
     "umur": 21,
     "serial": "hNgB4eaK6ZiWX39cgT",
     "limit": 21,
-    "premium": false
+    "premium": false, 
+    "depositSaldo": 0
   },
   {
     "id": "59523985314021@lid",
@@ -130,7 +144,8 @@
     "serial": "0KrCCfzDzhjckbzCxs",
     "limit": 9998,
     "premium": true,
-    "premiumExpire": 1759921733967
+    "premiumExpire": 1759921733967,
+    "depositSaldo": 0
   },
   {
     "id": "92557132484814@lid",
@@ -138,7 +153,8 @@
     "umur": 18,
     "serial": "LVgk81dhpwakas47xD",
     "limit": 22,
-    "premium": false
+    "premium": false, 
+    "depositSaldo": 0
   },
   {
     "id": "172361684914242@lid",
@@ -146,7 +162,8 @@
     "umur": 15,
     "serial": "Jawz6mSUdAcinQLL1y",
     "limit": 13,
-    "premium": false
+    "premium": false, 
+    "depositSaldo": 0
   },
   {
     "id": "66898981056594@lid",
@@ -154,7 +171,8 @@
     "umur": 15,
     "serial": "5yzmeSfMAp0ljFrAOF",
     "limit": 25,
-    "premium": false
+    "premium": false, 
+    "depositSaldo": 0
   },
   {
     "id": "180470650302533@lid",
@@ -162,7 +180,8 @@
     "umur": 13,
     "serial": "HNkaSLi9oNtVnLCxof",
     "limit": 24,
-    "premium": false
+    "premium": false, 
+    "depositSaldo": 0
   },
   {
     "id": "275427780214822@lid",
@@ -170,7 +189,8 @@
     "umur": 16,
     "serial": "1Ykg79PLkDOJwqvd1c",
     "limit": 23,
-    "premium": false
+    "premium": false, 
+    "depositSaldo": 0
   },
   {
     "id": "128376622825684@lid",
@@ -179,7 +199,8 @@
     "serial": "U0Zzb52PDpEmsqMZKq",
     "limit": 9990,
     "premium": true,
-    "premiumExpire": 1761836705174
+    "premiumExpire": 1761836705174,
+    "depositSaldo": 0
   },
   {
     "id": "39741365944454@lid",
