@@ -116,6 +116,7 @@
     "nama": "wise",
     "umur": 21,
     "serial": "hNgB4eaK6ZiWX39cgT",
+    "limit": 25,
     "premium": false
   },
   {
@@ -123,6 +124,7 @@
     "nama": "sull",
     "umur": 16,
     "serial": "0KrCCfzDzhjckbzCxs",
+    "limit": 25,
     "premium": false
   },
   {
@@ -130,6 +132,7 @@
     "nama": "yogi",
     "umur": 18,
     "serial": "LVgk81dhpwakas47xD",
+    "limit": 25,
     "premium": false
   }
 ]
