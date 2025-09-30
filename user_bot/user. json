@@ -6,7 +6,8 @@
     "serial": "6Av8WX34V50rRz70rK",
     "limit": 9995,
     "premium": true,
-    "premiumExpire": "PERMANENT"
+    "premiumExpire": "PERMANENT",
+    "depositSaldo": 100
   },
   {
     "id": "79667985924252@lid",
