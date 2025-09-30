@@ -12,9 +12,10 @@
     "nama": "meyy",
     "umur": 18,
     "serial": "yfOQO4soMLwgNOqWC3",
-    "limit": 25,
-    "premium": false,
-    "premium_expired": null
+    "limit": 9999,
+    "premium": true,
+    "premium_expired": null,
+    "premiumExpire": 1759215893652
   },
   {
     "id": "105068070219885@lid",
