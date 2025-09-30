@@ -4,7 +4,7 @@
     "nama": "junn",
     "umur": 20,
     "serial": "6Av8WX34V50rRz70rK",
-    "limit": 9941,
+    "limit": 9940,
     "premium": true,
     "premiumExpire": "PERMANENT",
     "depositSaldo": 0
@@ -16,7 +16,7 @@
     "serial": "yfOQO4soMLwgNOqWC3",
     "limit": 15,
     "premium": false,
-    "premiumExpire": null, 
+    "premiumExpire": null,
     "depositSaldo": 0
   },
   {
@@ -25,7 +25,7 @@
     "umur": 18,
     "serial": "NERHFa9Qw1aNZrdVQk",
     "limit": 25,
-    "premium": false, 
+    "premium": false,
     "depositSaldo": 0
   },
   {
@@ -34,7 +34,7 @@
     "umur": 25,
     "serial": "pnPUXM7Ki3c2fikaxw",
     "limit": 25,
-    "premium": false, 
+    "premium": false,
     "depositSaldo": 0
   },
   {
@@ -43,7 +43,7 @@
     "umur": 16,
     "serial": "y0o16ROD4QSrrfZFYG",
     "limit": 25,
-    "premium": false, 
+    "premium": false,
     "depositSaldo": 0
   },
   {
@@ -52,7 +52,7 @@
     "umur": 20,
     "serial": "U19KgtBGpN4KtnILU5",
     "limit": 21,
-    "premium": false, 
+    "premium": false,
     "depositSaldo": 0
   },
   {
@@ -61,7 +61,7 @@
     "umur": 20,
     "serial": "XFOUFAjhoAQ7ZF8ZnR",
     "limit": 21,
-    "premium": false, 
+    "premium": false,
     "depositSaldo": 0
   },
   {
@@ -70,7 +70,7 @@
     "umur": 14,
     "serial": "wBt0Tp4W3NHNBVs8ny",
     "limit": 25,
-    "premium": false, 
+    "premium": false,
     "depositSaldo": 0
   },
   {
@@ -89,7 +89,7 @@
     "umur": 20,
     "serial": "PfScQx8HmuzXgDHN2t",
     "limit": 24,
-    "premium": false, 
+    "premium": false,
     "depositSaldo": 0
   },
   {
@@ -98,7 +98,7 @@
     "umur": 13,
     "serial": "i7OlwU0LlxsuAqghai",
     "limit": 23,
-    "premium": false, 
+    "premium": false,
     "depositSaldo": 0
   },
   {
@@ -107,7 +107,7 @@
     "umur": 19,
     "serial": "w1CLi201arFKM675j2",
     "limit": 23,
-    "premium": false, 
+    "premium": false,
     "depositSaldo": 0
   },
   {
@@ -116,7 +116,7 @@
     "umur": 20,
     "serial": "aep2dLj11SD7BMU4yc",
     "limit": 25,
-    "premium": false, 
+    "premium": false,
     "depositSaldo": 0
   },
   {
@@ -125,7 +125,7 @@
     "umur": 21,
     "serial": "6PicOU6GXtDAT6ip9y",
     "limit": 25,
-    "premium": false, 
+    "premium": false,
     "depositSaldo": 0
   },
   {
@@ -134,7 +134,7 @@
     "umur": 21,
     "serial": "hNgB4eaK6ZiWX39cgT",
     "limit": 21,
-    "premium": false, 
+    "premium": false,
     "depositSaldo": 0
   },
   {
@@ -153,7 +153,7 @@
     "umur": 18,
     "serial": "LVgk81dhpwakas47xD",
     "limit": 22,
-    "premium": false, 
+    "premium": false,
     "depositSaldo": 0
   },
   {
@@ -162,7 +162,7 @@
     "umur": 15,
     "serial": "Jawz6mSUdAcinQLL1y",
     "limit": 13,
-    "premium": false, 
+    "premium": false,
     "depositSaldo": 0
   },
   {
@@ -171,7 +171,7 @@
     "umur": 15,
     "serial": "5yzmeSfMAp0ljFrAOF",
     "limit": 25,
-    "premium": false, 
+    "premium": false,
     "depositSaldo": 0
   },
   {
@@ -180,7 +180,7 @@
     "umur": 13,
     "serial": "HNkaSLi9oNtVnLCxof",
     "limit": 24,
-    "premium": false, 
+    "premium": false,
     "depositSaldo": 0
   },
   {
@@ -189,7 +189,7 @@
     "umur": 16,
     "serial": "1Ykg79PLkDOJwqvd1c",
     "limit": 23,
-    "premium": false, 
+    "premium": false,
     "depositSaldo": 0
   },
   {
