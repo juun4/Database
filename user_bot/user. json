@@ -70,8 +70,9 @@
     "nama": "olip imut kiyut istri mingyuuuuuuu",
     "umur": 14,
     "serial": "0u9hVvrXn38bwxr2JX",
-    "limit": 25,
-    "premium": false
+    "limit": 9999,
+    "premium": true,
+    "premiumExpire": 1759822249959
   },
   {
     "id": "131868380901404@lid",
