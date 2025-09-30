@@ -177,8 +177,9 @@
     "nama": "J",
     "umur": 12,
     "serial": "U0Zzb52PDpEmsqMZKq",
-    "limit": 17,
-    "premium": false
+    "limit": 9999,
+    "premium": true,
+    "premiumExpire": 1761836705174
   },
   {
     "id": "39741365944454@lid",
