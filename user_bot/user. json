@@ -273,5 +273,14 @@
     "limit": 22,
     "premium": false,
     "depositSaldo": 0
+  },
+  {
+    "id": "265850003177585@lid",
+    "nama": "Ixseed",
+    "umur": 20,
+    "serial": "4wes7ZIYjm6c7NP1kN",
+    "limit": 25,
+    "premium": false,
+    "depositSaldo": 0
   }
 ]
