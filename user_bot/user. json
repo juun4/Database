@@ -282,5 +282,14 @@
     "limit": 22,
     "premium": false,
     "depositSaldo": 0
+  },
+  {
+    "id": "209577442283764@lid",
+    "nama": "Hikari",
+    "umur": 20,
+    "serial": "eIvnrVRuMYg6u23hee",
+    "limit": 25,
+    "premium": false,
+    "depositSaldo": 0
   }
 ]
